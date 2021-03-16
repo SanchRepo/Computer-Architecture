@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2017.4 (64-bit)
+# SW Build 2086221 on Fri Dec 15 20:55:39 MST 2017
+# IP Build 2085800 on Fri Dec 15 22:25:07 MST 2017
+# Start of session at: Sun Apr 22 22:03:27 2018
+# Process ID: 5464
+# Current directory: C:/Users/Sancheet Hoque/Desktop/HW/blink/blink.runs/impl_1
+# Command line: vivado.exe -log blink.vdi -applog -product Vivado -messageDb vivado.pb -mode batch -source blink.tcl -notrace
+# Log file: C:/Users/Sancheet Hoque/Desktop/HW/blink/blink.runs/impl_1/blink.vdi
+# Journal file: C:/Users/Sancheet Hoque/Desktop/HW/blink/blink.runs/impl_1\vivado.jou
+#-----------------------------------------------------------
+source blink.tcl -notrace
