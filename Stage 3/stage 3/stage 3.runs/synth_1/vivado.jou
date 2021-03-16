@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2017.2 (64-bit)
+# SW Build 1909853 on Thu Jun 15 18:39:09 MDT 2017
+# IP Build 1909766 on Thu Jun 15 19:58:00 MDT 2017
+# Start of session at: Tue Apr 17 15:39:16 2018
+# Process ID: 17924
+# Current directory: C:/Users/szh24/Desktop/Stage 3/stage 3/stage 3.runs/synth_1
+# Command line: vivado.exe -log reg_v3.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source reg_v3.tcl
+# Log file: C:/Users/szh24/Desktop/Stage 3/stage 3/stage 3.runs/synth_1/reg_v3.vds
+# Journal file: C:/Users/szh24/Desktop/Stage 3/stage 3/stage 3.runs/synth_1\vivado.jou
+#-----------------------------------------------------------
+source reg_v3.tcl -notrace
